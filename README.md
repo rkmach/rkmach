@@ -2,7 +2,8 @@
 
 
 - 🔭 Cientista da Computação pela UFPR.
-- 🌱 Cursando Mestrado em informática pela UFPR.
+- 🌱 Mestre em informática pela UFPR.
+- 😦 Doutorando em informática pela UFPR.
 - 👯 Interessado em segurança computacional, sistemas operacionais e redes de computadores.
 
 <div style="display: inline_block"><br>
